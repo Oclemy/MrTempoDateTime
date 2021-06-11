@@ -23,4 +23,8 @@ Tempo.yesterday                         //=> yesterday
 
 ```
 
+Here's the demo:
+
+![DateTime Demo](MrTempoDateTime.gif)
+
 View more at [Camposha](https://camposha.info/android-examples/android-datetime-libraries/)
